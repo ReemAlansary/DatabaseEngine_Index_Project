@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44c1399a-584d-4402-b442-77eb0f135e60" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YlfelygaRDVhUNZPIOPKYmn3Nz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/CodingRaptorsInsertionFINALELFINALATKOLAHAINSHALLAH/CodingRaptors" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodingRaptors\CodingRaptors\src\otherbp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DBAppTest2">
+    <configuration name="CPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingRaptors.CPolygon" />
+      <module name="CodingRaptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingRaptors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingRaptors.DBApp" />
+      <module name="CodingRaptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingRaptors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBAppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingRaptors.DBAppTest" />
+      <module name="CodingRaptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingRaptors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBAppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingRaptors.DBAppTest" />
+      <module name="CodingRaptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingRaptors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Indices.RTree" />
+      <module name="CodingRaptors" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingRaptors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBAppTest2" />
+        <item itemvalue="Application.DBAppTest" />
+        <item itemvalue="Application.CPolygon" />
+        <item itemvalue="Application.DBApp" />
+        <item itemvalue="Application.RTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c1399a-584d-4402-b442-77eb0f135e60" name="Default Changelist" comment="" />
+      <created>1583522198941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583522198941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="206" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585783791039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="206" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1585783791039" />
+    <state x="833" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1586525996426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="833" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586525996426" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586388578556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1586388578556" />
+    <state x="484" y="255" width="397" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585786333743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="255" width="397" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1585786333743" />
+    <state x="445" y="245" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585854042995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="245" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1585854042995" />
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1586722225247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586722225247" />
+    <state width="1323" height="495" key="GridCell.Tab.0.bottom" timestamp="1586789809071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="495" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586789809071" />
+    <state width="1323" height="495" key="GridCell.Tab.0.center" timestamp="1586789809071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="495" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586789809071" />
+    <state width="1323" height="495" key="GridCell.Tab.0.left" timestamp="1586789809070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="495" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586789809070" />
+    <state width="1323" height="495" key="GridCell.Tab.0.right" timestamp="1586789809071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="495" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586789809071" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586789206486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586789206486" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586548510913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586548510913" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1586401807251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586401807251" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585755875495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585755875495" />
+  </component>
+</project>
