@@ -45,15 +45,18 @@
 #### Insertion
 - Any tuple is inserted in its correct place according to the ordering of the clustering key.
 - **Lazy shifting** is utilized, where any empty space in prior pages is used so that tuples can be shifted upwards between several pages if there is no space in the current page.
+- Binary search is used.
 
 #### Update
 - The WHERE clause contains a condition for the clustering key only.
 - If the clustering key is indexed, its index is used for faster search for the tuples to be updated.
+- If the clustering key is not indexed, `binary search` is used.
 
 #### Delete
 - The WHERE clause contains a condition for any column.
 - If any of those columns are indexed, its index is used for faster search for the tuples to be deleted.
 - No shifting is done between pages.
+- If no column is indexed, `linear search` is used.
 
 #### SELECT Queries
 - No joins are supported.
